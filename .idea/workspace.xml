@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="leetcode2023" targetName="leetcode2023" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e807febc-2de0-455e-9fed-4375695537d8" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="1.2" />
+  </component>
+  <component name="ProjectId" id="2JJJCJOjlYtCdynOLCp2NJd3Rpf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leetcode2023" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="leetcode2023" TARGET_NAME="leetcode2023" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e807febc-2de0-455e-9fed-4375695537d8" name="Changes" comment="" />
+      <created>1671790123986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671790123986</updated>
+      <workItem from="1671790125222" duration="3998000" />
+      <workItem from="1672185021561" duration="2111000" />
+      <workItem from="1672387561278" duration="599000" />
+      <workItem from="1672588933381" duration="599000" />
+      <workItem from="1672742628331" duration="8778000" />
+      <workItem from="1673393501228" duration="5855000" />
+      <workItem from="1673855983131" duration="4306000" />
+      <workItem from="1674312586800" duration="654000" />
+      <workItem from="1674546324288" duration="645000" />
+      <workItem from="1674879619680" duration="1313000" />
+      <workItem from="1675121686058" duration="2778000" />
+      <workItem from="1675208239447" duration="4798000" />
+      <workItem from="1675782895969" duration="2587000" />
+      <workItem from="1675937509162" duration="1810000" />
+      <workItem from="1676209505736" duration="8279000" />
+      <workItem from="1676936041693" duration="10051000" />
+      <workItem from="1677670242096" duration="3983000" />
+      <workItem from="1678404562644" duration="607000" />
+      <workItem from="1678710829515" duration="10126000" />
+      <workItem from="1680824406738" duration="11431000" />
+      <workItem from="1681947253220" duration="2064000" />
+      <workItem from="1685058070155" duration="3861000" />
+      <workItem from="1686612548382" duration="770000" />
+      <workItem from="1686653538980" duration="6198000" />
+      <workItem from="1686785714948" duration="11460000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
